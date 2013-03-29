@@ -1,0 +1,4 @@
+class FortunesController < ApplicationController
+
+
+end
