@@ -29,7 +29,7 @@ class Fortune
 
   # def initialize(attributes)
   #   @to = attributes[:to]
-  #   @question = attributes[:question]
+  #   @question = attributes[:stripped-text]
   #   @answer = attributes[:answer]
   # end
 

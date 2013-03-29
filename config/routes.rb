@@ -3,7 +3,7 @@ Magic8ball::Application.routes.draw do
   # resources :questions
 
    match 'questions' => 'questions#create', :via => :post
-  # match 'fortunes' => 'fortunes#send_response', :via => :post
+   match 'fortunes' => 'fortunes#send_response', :via => :post
   
 
   # The priority is based upon order of creation:
